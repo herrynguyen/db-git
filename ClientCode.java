@@ -1,17 +1,6 @@
 package sight;
 
-import dnl.utils.text.table.TextTable;
-import java.io.*;
-import java.net.*;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import org.w3c.dom.Document;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.apache.commons.lang.StringUtils;
+
 
 public class ClientCode {
 
